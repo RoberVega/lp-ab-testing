@@ -28,25 +28,23 @@ Assignments are located in the [assignments](/assignments/) folder together with
 
 > **Note**: This is just a suggestion. Groups are encouraged to set their own deadlines with their mentors.
 
-Week 01 _(~3 hours)_
+Week 01 _(~3.5 hours)_
 
 - Statistical foundations
 
 Week 02 _(~3 hours)_
 
-- Basic Git operations
+- Assignment #1
 
-Week 03 _(~1.5 hours)_
+Week 03 _(~2.5 hours)_
 
-- Assignment 1
-- Git branches
-- Working with branches
+- A/B test design
 
-Week 04 _(~2.5 hours)_
+Week 04 _(~3 hours)_
 
-- Assignment 2
-- Collaborative workflows
-- Assignment 3
+- Advanced methods
+
+
 
 
 
