@@ -2,6 +2,8 @@
 
 Welcome to the A/B testing especialization 🎉
 
+<img src="images/logo.png" alt="" width="auto" height="auto">
+
 In here you will find all the information you need to know about organization in this course. From where to find the assignments to a suggested learning calendar. Also, we have included two small sections on guidelines for both mentors and students.
 
 ## What is A/B testing?
